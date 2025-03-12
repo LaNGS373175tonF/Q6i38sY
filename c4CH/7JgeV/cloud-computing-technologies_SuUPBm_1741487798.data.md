@@ -1215,7 +1215,6 @@
 			* [设置Chrome代理](develop/browser/chrome/configure_proxy_for_chromium.md)
 		* [Min](develop/browser/min/README.md)
 	* [PHP](develop/php/README.md)
-		* [Nginx php-fpm配置优化Tips](develop/php/nginx_php-fpm_configuration_optimizing_tips.md)
 	* [Mac](develop/mac/README.md)
 		* [在mac上从iso镜像创建启动U盘](develop/mac/create_boot_usb_from_iso_in_mac.md)
 		* [从macOS Recovery中重新安装macOS](develop/mac/reinstall_macos_from_recovery.md)
