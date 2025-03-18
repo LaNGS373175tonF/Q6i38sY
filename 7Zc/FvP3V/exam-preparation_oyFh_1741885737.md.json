@@ -9,7 +9,6 @@
     "parserOptions": {
         "ecmaVersion": 12,
         "sourceType": "module"
-    },
     "rules": {
         "guard-for-in": "off",
         "no-console": "off",
