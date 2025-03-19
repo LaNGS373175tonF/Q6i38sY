@@ -17,7 +17,6 @@ IndentWidth: 8
 ContinuationIndentWidth: 8
 ColumnLimit: 80
 
-AlignAfterOpenBracket: AlwaysBreak
 AlignEscapedNewlines: Left
 AlignTrailingComments: false
 
