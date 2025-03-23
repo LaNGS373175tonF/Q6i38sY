@@ -1374,7 +1374,6 @@
 			* [高效压缩工具xz](develop/shell/utilities/xz.md)
 			* [tar命令再认识](develop/shell/utilities/tar.md)
             * [echo命令再认识](develop/shell/utilities/echo.md)
-	* [vim](develop/vim/README.md)
 		* [vim快速起步](develop/vim/vim_startup.md)
 		* [vim 跳转到函数、变量定义处](develop/vim/vim_jump_function_variable.md)
 		* [vim tips](develop/vim/vim_tips.md)
