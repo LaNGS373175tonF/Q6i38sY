@@ -14,7 +14,6 @@ from sagemaker import get_execution_role
     
     @param resource: S3 resource object
     @param bucket: name of S3 bucket
-    @param subfolder_name: subfolder name within S3 bucket
     @return list of filepaths associated with a subfolder
 """
 def get_filenames_from_subfolder(resource, bucket, subfolder_name):
