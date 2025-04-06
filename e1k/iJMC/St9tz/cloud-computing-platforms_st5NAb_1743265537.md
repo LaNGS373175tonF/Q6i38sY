@@ -85,7 +85,6 @@ Please follow the general workflow to develop:
 Please provide the key information in your PR:
 
 - **Description of the Change**: [ Detailed, descriptive, well-structured, and well-organized contents. ]
-- **Benefits**: [ What are the effects/benefits will be realized by the changed code? ]
 - **Potential Risks**: [ Will there be potential side-effects? If yes, please describe them. ]
 - **Verification**: [ Steps to verify the that your change will realize the benefits claimed. ]
 - **Related-Issues**: [ Provide the issue number. If your change closes an open issue, use *Closes Issue #xxxxx* ]
