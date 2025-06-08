@@ -149,7 +149,6 @@
         </dependency>
     </dependencies>
 
-    <dependencyManagement>
         <dependencies>
             <dependency>
                 <groupId>com.jarcheng</groupId>
